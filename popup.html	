@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>議事録メーカー</title>
+</head>
+<body>
+  <h2>議事録自動生成ツール</h2>
+  <input type="file" id="fileInput" accept=".txt" />
+  <button id="submitBtn">議事録を作成</button>
+  <pre id="output"></pre>
+
+  <script src="config.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
