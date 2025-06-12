@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "議事録メーカー",
+  "name": "Gijiroku Maker",
   "version": "1.0",
   "description": "Nottaの文字起こしをChatGPTで議事録化し、Google Docsに送信します。",
   "permissions": ["scripting", "storage"],
@@ -8,4 +8,3 @@
     "default_popup": "popup.html"
   }
 }
-
